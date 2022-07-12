@@ -1,6 +1,4 @@
-"""
-ESTE ARCHIVO TIENE FUNCIONES GENERICAS QUE DESPUES PODRIAMOS ADAPTAR DE ALGUNA FORMA
-"""
+
 from collections import deque
 import heapq
 
